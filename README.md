@@ -1,24 +1,24 @@
-# CV_Example
+# Angie Alza
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Angie Paola Alza Quiroga
+**Profesión:** Gestión de Mercados
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 3203876439
+- **Email:** angiealza165@gmail.com
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Almacen los Angeles** _(2016 - Actualidad)_
+- Asesora comercial, ventas y servicio al cliente.
+- Brindarles asesoriaa a los clientes en el proceso de selección de sus prendas de vestir, ayudar con el inventario de las prendas, manejo de bodega y administración de recusrsos
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Colegio I.E.D La Aurora** _(2013 - 2021)_
+### **Colegio I.E.D José Francisco Socarras** _(2022 - 2022)_
+- Bachiller academico.
 
 ## 💡 Habilidades
 - **Habilidad 1**
