@@ -3,28 +3,32 @@
 
 ## Angie Paola Alza Quiroga
 **Profesión:** Gestión de Mercados
-
+- Profesional en gestión de mercados con experiencia en merchandising, merchandising visual y estrategias comerciales. Centrado en la investigación de mercado, posicionamiento de marca y relaciones públicas. Creativo, proactivo y orientado a resultados.
 ## 📞 Contacto
-- **Teléfono:** +57 3203876439
-- **Email:** angiealza165@gmail.com
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [angiealza165@gmail.com](mailto:angiealza165@gmail.com) 
+- **LinkedIn:** [linkedin.com/in/angie-alza-05a060358/](https://linkedin.com/in/angie-alza-05a060358/)
 
 ## 🏢 Experiencia Laboral
-### **Almacen los Angeles** _(2016 - Actualidad)_
+### **FENALCO - Federación Nacional de Comerciantes** _(2025- actual)_
+- Asistente de marketing.
+- Como Asistente de Marketing, me encargué de la gestión de contenidos en redes sociales y otros canales digitales, creando y optimizando publicaciones. Apoyé en la planificación y ejecución de campañas publicitarias, asegurando su correcto desarrollo y seguimiento. Además, creé bases de datos y propuse mejoras para optimizar las estrategias de marketing.
+### **Almacen los Angeles** _(2016 - 2022)_
 - Asesora comercial, ventas y servicio al cliente.
-- Brindarles asesoriaa a los clientes en el proceso de selección de sus prendas de vestir, ayudar con el inventario de las prendas, manejo de bodega y administración de recusrsos
-
+- Brindarles asesoria a los clientes en el proceso de selección de sus prendas de vestir, ayudar con el inventario de las prendas, manejo de bodega y administración de recusrsos.
 
 ## 🎓 Educación
-### **Colegio I.E.D La Aurora** _(2013 - 2021)_
-### **Colegio I.E.D José Francisco Socarras** _(2022 - 2022)_
+### **Servicio Nacional de Aprendizaje-SENA** _(2023 - ACTUAL)_
+- Bachiller academico.
+### **Colegio I.E.D José Francisco Socarras** _(2022)_
 - Bachiller academico.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
-
+- **Trabajo en equipo**
+- **Responsabilidad**
+- **Conpromiso**
+- **Comunicación**
+- **Tolerancia**
+- **Empatica**
 ---
 
 ## 🎨 Formatos y Fuentes Disponibles
