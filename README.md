@@ -3,7 +3,9 @@
 
 ## Angie Paola Alza Quiroga
 **Profesión:** Gestión de Mercados
-- Profesional en gestión de mercados con experiencia en merchandising, merchandising visual y estrategias comerciales. Centrado en la investigación de mercado, posicionamiento de marca y relaciones públicas. Creativo, proactivo y orientado a resultados.
+Profesional en gestión de mercados  con experiencia práctica en áreas clave para la optimización de estrategias comerciales.Cuento con una capacidad para desarrollar e implementar estrategias de merchandising y merchandising visual. Centrado en la investigación de mercado, posicionamiento de marca y relaciones públicas. Creativo, proactivo y orientado a resultados.
+
+Me destaco por ser un profesional creativo, con una visión innovadora para la generación de ideas y soluciones. Soy proactivo, con iniciativa para identificar y abordar desafíos, y estoy firmemente orientado a resultados, enfocado en la consecución de metas y la medición del impacto de las acciones implementadas.
 ## 📞 Contacto
 - **Email:** [angiealza165@gmail.com](mailto:angiealza165@gmail.com) 
 - **LinkedIn:** [linkedin.com/in/angie-alza-05a060358/](https://linkedin.com/in/angie-alza-05a060358/)
